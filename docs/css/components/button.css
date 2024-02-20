@@ -21,7 +21,7 @@
 .input input {
     width: 100%;
     cursor: auto;
-    color: var(--color-accent);
+    color: var(--color-accent-dark);
     background-color: var(--color-background);
     /* border: 1px solid var(--color-text-bg-dark); */
     padding-left: calc(var(--spacing)*2);
@@ -29,6 +29,7 @@
 }
 .input input::placeholder {
     font-weight: normal;
+    color: var(--color-accent-light);
 }
 
 .input span,

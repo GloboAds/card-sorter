@@ -6,7 +6,7 @@ var texts = {
         `Ela dura em torno de <b>10 a 15 minutos</b> para ser completada. É rapidinho e vai nos ajudar muito!`,
     ],
     introPreAuth: [
-        `Para começar, como posso te chamar?`,
+        `Para começar, como podemos te chamar?`,
     ],
     start: [`Iniciar`],
     nameInputPlaceholder: [`Digite seu nome`],
@@ -15,7 +15,7 @@ var texts = {
     googleAuthConnectAs: [ `Continuar como` ],
     googleAuthDisconnect: [ `Desconectar` ],
     sidebarTitle: [`Cartões`],
-    sidebarSubtitle: [`%n de %n cartões agrupados.`],
+    sidebarSubtitle: [`%n de %n cartões agrupados`],
 
     newCardGroup: [`Arraste para criar um novo grupo`],
     cardTopDivider: [`<strong>Topo</strong>: mais relevante`],
