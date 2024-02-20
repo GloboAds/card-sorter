@@ -25,6 +25,7 @@
     font-size: 64px;
     color: var(--color-accent);
     margin-top: 0;
+    margin-top: calc(var(--spacing)*8);
     margin-bottom: calc(var(--spacing)*8);
 }
 .intro__header p {

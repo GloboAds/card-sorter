@@ -61,7 +61,7 @@
         pointer-events: auto;
     }
     .card-group__title::placeholder {
-      color: var(--color-text-bg-dark);
+      color: var(--color-accent-light);
     }
     .card-group__hr {
         width: 100%;

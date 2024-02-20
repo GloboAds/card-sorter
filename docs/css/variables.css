@@ -1,11 +1,12 @@
 :root {
     --color-accent: #6A52FA;
+    --color-accent-light: #9483FB;
     --color-accent-dark: #4933CC;
     --color-base: #141414; /* text base */
     --color-text-bg-light: #4F4F4F;
     --color-text-bg-dark: #99A3AA;
-    --color-foreground: #E0E0E0;
-    --color-background: #F2F2F2;
+    --color-foreground: #E1DCFE;
+    --color-background: #F2F0FF;
     /* --color-dark-background: #141414; */
     --color-white: #FFFFFF;
     --color-google-btn: #4285F4;
