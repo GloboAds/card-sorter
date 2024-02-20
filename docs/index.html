@@ -15,6 +15,7 @@
         <app-ending v-else-if="completed" :authenticated="authenticated"></app-ending>
         <template v-else>
             <header class="app-header">
+                <img class="app-header__icon" src="img/globo.svg" alt="Globo" />
                 <h1 class="app-header__logo" v-for="t in texts.appTitle" v-html="t"></h1>
                 <aside class="app-header__actions">
                     <button class="btn-secondary" @click="alertSteps">

@@ -1,12 +1,12 @@
 .app-card {
     font-size: 14px;
-    color: var(--color-accent);
+    color: var(--color-accent-dark);
     padding: var(--spacing) calc(var(--spacing)*2);
     line-height: 1.2em;
     text-align: center;
     background: var(--color-white);
     /* margin: 0 0 calc(var(--spacing)/2); */
-    border: 1px solid var(--color-text-bg-dark);
+    border: 1px solid var(--color-accent-dark);
     cursor: pointer;
     font-weight: 500;
     width: var(--card-width);

@@ -25,6 +25,7 @@ Vue.component('app-intro', {
     template: `
         <main class="intro">
             <header class="intro__header">
+                <img width="64" height="64" src="img/globo.svg" alt="Globo" />
                 <h1 v-for="t in texts.introTitle" v-html="userNameText(t)"></h1>
                 <p v-for="t in texts.introText" v-html="t"></p>
             </header>
